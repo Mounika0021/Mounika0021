@@ -26,10 +26,11 @@ Robotics and Automation Engineering Student passionate about building intelligen
 
 ## 🧰 Tech Stack
 
-### 💻 Programming
+### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </p>
 
 ---
@@ -37,42 +38,47 @@ Robotics and Automation Engineering Student passionate about building intelligen
 ### 🤖 AI & Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=pytorch" />
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 </p>
-
-Machine Learning • Deep Learning • Computer Vision
 
 ---
 
 ### ⚙ Robotics & Embedded Systems
 
 <p>
-<img src="https://skillicons.dev/icons?i=arduino" />
+<img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Embedded%20Systems-1976D2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Sensors%20%26%20Actuators-546E7A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Robot%20Kinematics-FF7043?style=for-the-badge"/>
 </p>
-
-ESP32 • Sensors & Actuators • Robot Kinematics • Embedded Systems
 
 ---
 
 ### 📊 Data & Visualization
 
 <p>
-<img src="https://skillicons.dev/icons?i=numpy,pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-FF9800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
-
-Matplotlib • Seaborn • Power BI
 
 ---
 
-### 🛠 Tools
+### 🛠 Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=opencv" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Fusion%20360-F57C00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Webots-1E88E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
 </p>
 
-Fusion360 • Webots • Postman • LaTeX
-
----
 
 ## 🤖 Featured Projects
 
