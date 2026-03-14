@@ -146,18 +146,6 @@ Features
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Mounika0021&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mounika0021&theme=tokyonight"/>
-</p>
-
----
-
 # 🎓 Education
 
 🎓 **REVA University – Bangalore**
