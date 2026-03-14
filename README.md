@@ -1,76 +1,84 @@
-# 👋 Hi, I'm Ravakutam Mounika
+<h1 align="center">Hi 👋, I'm Ravakutam Mounika</h1>
+<h3 align="center">🤖 Robotics | Artificial Intelligence | Embedded Systems</h3>
 
-🎓 **Robotics and Automation Engineering Student**
-📍 Bengaluru, India
-🤖 Passionate about **Robotics | AI | Embedded Systems**
-
-I love building intelligent machines and AI systems that solve real-world problems. My interests lie in robotics control systems, computer vision, and embedded automation.
+<p align="center">
+Robotics and Automation Engineering Student passionate about building intelligent machines and AI-driven systems.
+</p>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-* 🎓 B.Tech in **Robotics and Automation Engineering** at REVA University (2023–2027)
+* 🎓 **B.Tech in Robotics and Automation Engineering**
+  REVA University (2023 – 2027)
+
 * 🤖 Interested in **AI-powered robotics and autonomous systems**
-* 🧠 Learning **machine learning, robotics control, and embedded development**
-* 🛠 Building projects that combine **AI + robotics + embedded systems**
+
+* 🧠 Currently learning
+
+  * Machine Learning
+  * Computer Vision
+  * Robotics Control Systems
+
+* 🛠 I enjoy building projects combining
+  **AI + Robotics + Embedded Systems**
 
 ---
 
-# 🧰 Tech Stack
+## 🧰 Tech Stack
 
 ### 💻 Programming
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 
 ### 🤖 AI & Machine Learning
 
-![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge\&logo=pytorch)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-orange?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-green?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-green?style=for-the-badge)
 
-### ⚙ Robotics & Embedded
+### ⚙ Robotics & Embedded Systems
 
 ![ESP32](https://img.shields.io/badge/ESP32-black?style=for-the-badge)
-![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-blue?style=for-the-badge)
-![Sensors](https://img.shields.io/badge/Sensors_&_Actuators-grey?style=for-the-badge)
+![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-blue?style=for-the-badge)
+![Sensors](https://img.shields.io/badge/Sensors%20%26%20Actuators-grey?style=for-the-badge)
 
 ### 📊 Data & Visualization
 
-![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge\&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge\&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge)
 
 ### 🛠 Tools
 
-![OpenCV](https://img.shields.io/badge/OpenCV-green?style=for-the-badge\&logo=opencv)
-![Fusion360](https://img.shields.io/badge/Fusion360-orange?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv)
+![Fusion360](https://img.shields.io/badge/Fusion%20360-orange?style=for-the-badge)
 ![Webots](https://img.shields.io/badge/Webots-blue?style=for-the-badge)
 
 ---
 
-# 🤖 Featured Projects
+## 🤖 Featured Projects
 
-## 🌊 Bluetooth-Controlled River Cleaning Robot
+### 🌊 Bluetooth-Controlled River Cleaning Robot
 
 A floating robot designed to remove waste from water bodies.
 
-**Tech Used:** ESP32, L293D Motor Driver, Embedded Systems
+**Technologies:** ESP32, L293D Motor Driver, Embedded Systems
 
 Features:
 
-* Bluetooth-based remote navigation
+* Bluetooth-based navigation
 * Automated floating waste collection
 * Compact debris collection mechanism
 
 ---
 
-## 🧠 Pneumonia Detection Using Chest X-Ray Images
+### 🧠 Pneumonia Detection Using Chest X-Ray Images
 
-Deep learning model that detects pneumonia from chest X-rays.
+Deep learning model that detects pneumonia from chest X-ray images.
 
-**Tech Used:** PyTorch, Computer Vision
+**Technologies:** PyTorch, Computer Vision
 
 Features:
 
@@ -80,11 +88,11 @@ Features:
 
 ---
 
-## 🐍 Snake Robot Using Python
+### 🐍 Snake Robot Using Python
 
 Multi-segment robotic snake capable of coordinated motion.
 
-**Tech Used:** Python, Dynamixel AX-12A Servos
+**Technologies:** Python, Dynamixel AX-12A Servos
 
 Features:
 
@@ -94,25 +102,19 @@ Features:
 
 ---
 
-# 📚 Education
+## 📊 GitHub Stats
 
-🎓 **REVA University, Bangalore**
-B.Tech – Robotics and Automation Engineering
-📅 2023 – 2027
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Mounika0021&show_icons=true&theme=tokyonight"/>
+</p>
 
----
-
-# 📜 Certifications
-
-* Python Programming – GeeksforGeeks
-* Postman API Fundamentals – Postman
-* Computer Vision – OpenCV
-* Machine Learning & AI – REVA University
-* Embedded Systems – REVA University
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mounika0021&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
-# 🌱 Currently Learning
+## 🌱 Currently Learning
 
 * Advanced Robotics Control
 * Deep Learning for Computer Vision
@@ -120,10 +122,10 @@ B.Tech – Robotics and Automation Engineering
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
 📧 Email: [ravakutammounika1227@gmail.com](mailto:ravakutammounika1227@gmail.com)
 
 ---
 
-⭐ Thanks for visiting my GitHub profile!
+⭐ *Thanks for visiting my GitHub profile!*
