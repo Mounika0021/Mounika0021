@@ -165,19 +165,6 @@ Deep learning model for automated pneumonia detection from chest X-ray images.
 - OpenCV
 - Postman API Fundamentals
 
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mounika0021&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mounika0021&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
 
 # 📫 Connect With Me
 
