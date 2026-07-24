@@ -108,7 +108,7 @@ I enjoy building end-to-end AI applications—from data preprocessing and model 
 
 # 🚀 Featured Projects
 
-## 🔍 HyperVerify AI
+## 🔍 TrustLens-AI
 
 **OCR • Vision-Language Models • Qwen2-VL • LoRA • FastAPI • Docker**
 
