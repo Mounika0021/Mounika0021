@@ -1,178 +1,200 @@
 <h1 align="center">Hi 👋, I'm Ravakutam Mounika</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Robotics+Engineer+in+Progress;AI+%7C+Computer+Vision+Explorer;Building+Intelligent+Robotic+Systems;Exploring+AI+%2B+Automation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=AI+%7C+Machine+Learning+Engineer;Computer+Vision+Developer;Vision-Language+Models+%7C+LLMs;Building+Production-Ready+AI+Applications;Robotics+and+Automation+Engineer"/>
 </p>
 
-<h3 align="center">🤖 Robotics | Artificial Intelligence | Embedded Systems</h3>
+<h3 align="center">
+AI • Machine Learning • Computer Vision • Vision-Language Models
+</h3>
 
 <p align="center">
-Robotics and Automation Engineering student passionate about building intelligent machines and AI-driven automation systems.
+Passionate about building intelligent AI systems that solve real-world problems using Machine Learning, Computer Vision, Large Language Models, and MLOps.
 </p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mounika-ravakutam-8a56a7298">
-<img src="https://img.shields.io/badge/LinkedIn-Mounika%20Ravakutam-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Ravakutam%20Mounika-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:ravakutammounika1227@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
 </a>
 </p>
 
 ---
 
-# 🚀 About Me
+# 👩‍💻 About Me
 
 🎓 **B.Tech – Robotics and Automation Engineering**
-REVA University, Bangalore (2023 – 2027)
 
-🤖 Passionate about **AI-powered robotics and intelligent systems**
+REVA University (2023–2027)
 
-🧠 Currently exploring
+📍 Bengaluru, India
 
-• Machine Learning
-• Computer Vision
-• Robotics Control Systems
+I enjoy building end-to-end AI applications—from data preprocessing and model training to deployment using FastAPI and Docker. My interests span Computer Vision, Vision-Language Models, LLMs, and intelligent automation.
 
-🛠 Building projects combining
+### Currently Exploring
 
-**Artificial Intelligence + Robotics + Embedded Systems**
+- 🤖 Vision-Language Models (Qwen2-VL)
+- 🧠 Large Language Models
+- 🎯 LoRA & PEFT Fine-tuning
+- 📄 OCR & Document AI
+- ⚡ FastAPI & REST APIs
+- 🐳 Docker & MLOps
+- 🤗 Hugging Face Transformers
 
 ---
 
-# 🧰 Tech Stack
+# 🛠 Tech Stack
 
-## 💻 Programming Languages
-
-**Primary Language**
+## Languages
 
 <p>
-<img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
-**Foundational Languages**
-
-<p>
-<img src="https://img.shields.io/badge/C-Basic-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/C++-Basic-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql"/>
 </p>
 
 ---
 
-## 🤖 AI & Machine Learning
+## AI & Machine Learning
 
 <p>
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-00C853?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface"/>
+<img src="https://img.shields.io/badge/Transformers-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LoRA-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PEFT-purple?style=for-the-badge"/>
 </p>
 
 ---
 
-## ⚙ Robotics & Embedded Systems
+## Computer Vision
 
 <p>
-<img src="https://img.shields.io/badge/ESP32-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Embedded%20Systems-1976D2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Sensors%20%26%20Actuators-546E7A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Robot%20Kinematics-FF7043?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/>
+<img src="https://img.shields.io/badge/EasyOCR-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Image%20Processing-blue?style=for-the-badge"/>
 </p>
 
 ---
 
-## 📊 Data & Visualization
+## Backend & Deployment
+
+<p>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
+<img src="https://img.shields.io/badge/REST%20API-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/Gradio-FF9800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions"/>
+</p>
+
+---
+
+## Data Science
 
 <p>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/Matplotlib-FF9800?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Seaborn-4CAF50?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🛠 Tools & Platforms
+# 🚀 Featured Projects
 
-<p>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/>
-<img src="https://img.shields.io/badge/Fusion360-F57C00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Webots-1E88E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
-<img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex"/>
-</p>
+## 🔍 HyperVerify AI
 
----
+**OCR • Vision-Language Models • Qwen2-VL • LoRA • FastAPI • Docker**
 
-# 🤖 Featured Projects
+An end-to-end identity verification system for Aadhaar, PAN, and Passport documents.
 
-## 🌊 Bluetooth-Controlled River Cleaning Robot
+### Highlights
 
-Floating robot designed to remove waste from water bodies.
-
-Technologies: **ESP32 • Embedded Systems • Motor Drivers**
-
-Features
-
-• Bluetooth-based navigation
-• Automated floating waste collection
-• Eco-friendly river cleaning system
+- OCR using EasyOCR
+- Document understanding using Qwen2-VL
+- LoRA fine-tuning with PEFT
+- Fraud detection and explainable AI
+- FastAPI REST APIs
+- Dockerized deployment
+- Gradio web interface
 
 ---
 
-## 🧠 Pneumonia Detection Using Chest X-Ray Images
+## 😊 Facial Emotion & Distress Recognition
 
-Deep learning model that detects pneumonia from chest X-ray images.
+**PyTorch • ResNet18 • MediaPipe • OpenCV • FastAPI**
 
-Technologies: **PyTorch • Computer Vision**
+Real-time facial emotion recognition system capable of detecting seven emotions from webcam input.
 
-Features
+### Highlights
 
-• Image preprocessing pipeline
-• Deep learning classification model
-• Model evaluation using machine learning metrics
-
----
-
-## 🐍 Snake Robot Using Python
-
-Multi-segment robotic snake capable of coordinated locomotion.
-
-Technologies: **Python • Dynamixel AX-12A Servos**
-
-Features
-
-• Multi-servo locomotion control
-• Python-based motion coordination algorithms
-• TTL communication protocol
+- Live emotion recognition
+- Class imbalance handling
+- FastAPI inference API
+- Docker deployment
 
 ---
 
-# 🎓 Education
+## 🫁 Clinical Chest X-ray Classification
 
-🎓 **REVA University – Bangalore**
-B.Tech Robotics and Automation Engineering
-2023 – 2027
+**PyTorch • ResNet18 • FastAPI**
+
+Deep learning model for automated pneumonia detection from chest X-ray images.
+
+### Highlights
+
+- Medical image classification
+- 91% F1-score
+- REST API deployment
+- Docker support
 
 ---
 
 # 📜 Certifications
 
-• Python Programming – GeeksforGeeks
-• Postman API Fundamentals – Postman
-• Computer Vision – OpenCV
-• Machine Learning & AI – REVA University
-• Embedded Systems – REVA University
+- Python Programming
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- OpenCV
+- Postman API Fundamentals
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mounika0021&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mounika0021&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
 # 📫 Connect With Me
 
-📧 Email: [ravakutammounika1227@gmail.com](mailto:ravakutammounika1227@gmail.com)
+📧 **Email:** ravakutammounika1227@gmail.com
 
-🔗 LinkedIn:
+💼 **LinkedIn:**  
 https://www.linkedin.com/in/mounika-ravakutam-8a56a7298
+
+🐙 **GitHub:**  
+https://github.com/Mounika0021
 
 ---
 
 <p align="center">
-⭐ Thanks for visiting my GitHub profile!
+
+⭐ Thanks for visiting my profile!
+
+Always learning. Always building.
+
 </p>
