@@ -1,176 +1,179 @@
-<h1 align="center">Hi 👋, I'm Ravakutam Mounika</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=AI+%7C+Machine+Learning+Engineer;Computer+Vision+Developer;Generative+AI+%7C+LLMs;Vision-Language+Models;RAG+%7C+AI+Agents;Building+Intelligent+AI+Systems"/>
-</p>
-
-<h3 align="center">
-  AI • Machine Learning • Deep Learning • Computer Vision • Generative AI • LLMs • VLMs
-</h3>
-
-<p align="center">
-  I build practical AI systems that combine Machine Learning, Deep Learning,
-  Computer Vision, Generative AI, Large Language Models and intelligent
-  decision-making workflows.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C2FF&height=210&section=header&text=Ravakutam%20Mounika&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Computer%20Vision%20%C2%B7%20Generative%20AI%20%C2%B7%20AI%20Agents&descSize=16&descAlignY=58"/>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mounika-ravakutam-8a56a7298">
-    <img src="https://img.shields.io/badge/LinkedIn-Ravakutam%20Mounika-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:ravakuttammounika1227@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Mounika0021">
-    <img src="https://img.shields.io/badge/GitHub-Mounika0021-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=AI+%7C+Machine+Learning+Engineer;Computer+Vision+Developer;Generative+AI+%7C+LLMs;Vision-Language+Models;RAG+%7C+AI+Agents;Building+Intelligent+AI+Systems"/>
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/mounika-ravakutam-8a56a7298"><img src="https://img.shields.io/badge/LinkedIn-Ravakutam%20Mounika-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:ravakuttammounika1227@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Mounika0021"><img src="https://img.shields.io/badge/GitHub-Mounika0021-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=Mounika0021&label=Profile%20Views&color=00C2FF&style=for-the-badge"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/AI-00C2FF?style=flat-square" height="4"/> <img src="https://img.shields.io/badge/-7C3AED?style=flat-square" height="4"/> <img src="https://img.shields.io/badge/-2C5364?style=flat-square" height="4"/>
 </p>
 
 ---
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 
-🎓 **B.Tech – Robotics and Automation Engineering**
+<table>
+<tr>
+<td width="60">🎓</td>
+<td><strong>B.Tech — Robotics and Automation Engineering</strong><br/>REVA University, Bengaluru · 2023 – 2027 · <strong>CGPA 9.28 / 10.0</strong></td>
+</tr>
+<tr>
+<td width="60">📍</td>
+<td>Bengaluru, India</td>
+</tr>
+<tr>
+<td width="60">💡</td>
+<td>AI/ML-focused engineering student building intelligent systems that <strong>reason, recommend, evaluate, verify, and operate within defined boundaries</strong> — not just individual models.</td>
+</tr>
+</table>
 
-**REVA University | 2023–2027**
-
-📍 Bengaluru, India
-
-I am an **AI/ML-focused engineering student** interested in building
-intelligent systems that solve practical problems.
-
-My primary interests include:
-
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Generative AI
-- Large Language Models
-- Retrieval-Augmented Generation
-- AI Agents
-- Vision-Language Models
-- Document AI
-- Fine-Tuning
-- AI Decision Systems
-- Responsible & Governed AI
-
-I enjoy moving beyond individual models and exploring how AI systems
-can be designed to **reason, recommend, evaluate, verify and operate
-within defined boundaries**.
-
-**My approach:**
-
-`Problem → Data → Intelligence → Evaluation → Decision → Verification → Improvement`
-
----
-
-# 🔎 Currently Exploring
-
-- 🤖 Vision-Language Models
-- 🧠 Large Language Models
-- 🔗 Retrieval-Augmented Generation (RAG)
-- 🤖 AI Agents
-- 🎯 LoRA & PEFT Fine-Tuning
-- 📄 OCR & Document AI
-- 🛡️ AI Governance
-- 🧠 AI Decision Intelligence
-- 🔍 Explainable AI
-- 📊 Recommendation Systems
-- 🔐 Controlled AI Actions
-- ✅ Verification & Auditability
-
----
-
-# 🛠️ Tech Stack
-
-## 💻 Programming
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<p align="center">
+<code>Problem → Data → Intelligence → Evaluation → Decision → Verification → Improvement</code>
 </p>
 
 ---
 
-## 🤖 AI & Machine Learning
+## 🔎 Currently Exploring
 
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Transformers-FFCC4D?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LoRA-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PEFT-9333EA?style=for-the-badge"/>
-</p>
-
----
-
-## 🧠 Generative AI & LLMs
-
-<p>
-  <img src="https://img.shields.io/badge/Generative%20AI-6C63FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI%20Agents-0F766E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Qwen2--VL-8B5CF6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LangGraph-1F2937?style=for-the-badge"/>
-</p>
+<table>
+<tr>
+<td>🤖 Vision-Language Models</td>
+<td>🧠 Large Language Models</td>
+<td>🔗 Retrieval-Augmented Generation</td>
+</tr>
+<tr>
+<td>🕹️ AI Agents</td>
+<td>🎯 LoRA & PEFT Fine-Tuning</td>
+<td>📄 OCR & Document AI</td>
+</tr>
+<tr>
+<td>🛡️ AI Governance</td>
+<td>🧭 AI Decision Intelligence</td>
+<td>🔍 Explainable AI</td>
+</tr>
+<tr>
+<td>📊 Recommendation Systems</td>
+<td>🔐 Controlled AI Actions</td>
+<td>✅ Verification & Auditability</td>
+</tr>
+</table>
 
 ---
 
-## 👁️ Computer Vision & Multimodal AI
+## 🛠️ Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/EasyOCR-2E7D32?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Document%20AI-4F46E5?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Multimodal%20AI-7C3AED?style=for-the-badge"/>
-</p>
+<table>
+<tr><td width="140"><strong>Languages</strong></td><td>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+</td></tr>
+<tr><td><strong>AI / ML</strong></td><td>
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Transformers-FFCC4D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LoRA-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PEFT-9333EA?style=for-the-badge"/>
+
+</td></tr>
+<tr><td><strong>Generative AI & LLMs</strong></td><td>
+
+<img src="https://img.shields.io/badge/Generative%20AI-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Agents-0F766E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Qwen2--VL-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-1F2937?style=for-the-badge"/>
+
+</td></tr>
+<tr><td><strong>Computer Vision & Multimodal</strong></td><td>
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/EasyOCR-2E7D32?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Document%20AI-4F46E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Multimodal%20AI-7C3AED?style=for-the-badge"/>
+
+</td></tr>
+<tr><td><strong>Data & Analytics</strong></td><td>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge"/>
+
+</td></tr>
+</table>
 
 ---
 
-## 📊 Data & Analytics
+## 🚀 Featured Projects
 
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge"/>
-</p>
+<table>
+<tr>
+<th align="left">Project</th>
+<th align="left">Focus</th>
+<th align="left">Highlight</th>
+</tr>
+<tr>
+<td>🛡️ <a href="#-01-governed-ai-work-agent">Governed AI Work Agent</a></td>
+<td>Decision intelligence · governance · RAG</td>
+<td>Full recommend → approve → act → verify → audit lifecycle</td>
+</tr>
+<tr>
+<td>🔍 <a href="#-02-trustlens-ai">TrustLens AI</a></td>
+<td>Multimodal identity verification</td>
+<td>Qwen2-VL + OCR document fraud checks</td>
+</tr>
+<tr>
+<td>😊 <a href="#-03-facial-emotion--distress-recognition">Facial Emotion & Distress Recognition</a></td>
+<td>Real-time computer vision</td>
+<td>7-class emotion recognition, 65–68% on FER2013</td>
+</tr>
+<tr>
+<td>🫁 <a href="#-04-clinical-chest-x-ray-classification">Clinical Chest X-Ray Classification</a></td>
+<td>Medical imaging</td>
+<td>91% F1-score pneumonia detection</td>
+</tr>
+</table>
 
----
+### 🛡️ 01. Governed AI Work Agent
 
-# 🚀 Featured Projects
+**AI Decision Intelligence & Governed Action Platform**
 
-## 🛡️ 01. Governed AI Work Agent
+`AI Agents` `Decision Intelligence` `Recommendation Systems` `Governance` `RAG` `Verification` `Auditability` `Streamlit`
 
-### AI Decision Intelligence & Governed Action Platform
+An evolving governed AI decision-intelligence platform that turns business signals into controlled, explainable, and auditable actions. Rather than treating an AI recommendation as an immediately executable instruction, the system separates **intelligence from authorization and execution**.
 
-**AI Agents • Decision Intelligence • Recommendation Systems • Governance • RAG • Verification • Auditability • Streamlit**
+> **Core principle:** Recommendation ≠ Authorization ≠ Execution
 
-An evolving **governed AI decision-intelligence platform** designed to
-turn business signals into controlled, explainable and auditable actions.
+```
+Context → Analysis → Opportunity Discovery → Recommendation → Governance
+→ Approval → Controlled Action → Verification → Outcome → Audit
+```
 
-Instead of treating an AI recommendation as an immediately executable
-instruction, the system separates **intelligence from authorization
-and execution**.
+<details>
+<summary><strong>Key features & current demo</strong></summary>
+<br/>
 
-### Core Principle
-
-**Recommendation ≠ Authorization ≠ Execution**
-
-### Decision Lifecycle
-
-`Context → Analysis → Opportunity Discovery → Recommendation → Governance → Approval → Controlled Action → Verification → Outcome → Audit`
-
-### Key Features
-
+**Key Features**
 - 🧠 AI-driven business analysis
 - 💡 Opportunity discovery
 - 📊 Multiple recommendation generation
@@ -187,66 +190,39 @@ and execution**.
 - 🔗 Foundation for RAG-backed business knowledge
 - 🤖 Roadmap toward broader agent workflows
 
-### Current Demonstration
+**Current Demonstration** — a **FitFuel Store** scenario (fitness & nutrition). The system analyzes business signals and identifies related-product opportunities such as a shaker bottle, protein cookies, or gym towel, then evaluates each on Customer Fit, Category Fit, Purchase Relevance, Expected Impact, and Confidence.
 
-The current implementation uses a **FitFuel Store** scenario focused on
-fitness and nutrition.
+**Governance Architecture**
+```
+AI Recommendation → Governance Validation → Approval → Controlled Action → Verification → Audit
+```
 
-The system analyzes business signals and identifies related-product
-opportunities such as:
+**Long-Term Direction** — RAG-backed business knowledge, dynamic agent planning, tool-oriented workflows, evidence-backed and policy-aware reasoning, configurable governance policies, risk classification, role-based authorization, dynamic opportunity ranking, customer-segment-aware recommendations, product relationship graphs, stronger verification, governance analytics.
 
-- Shaker Bottle
-- Protein Cookies
-- Gym Towel
-
-Recommendations are evaluated using factors such as:
-
-- Customer Fit
-- Category Fit
-- Purchase Relevance
-- Expected Impact
-- Confidence
-
-### Governance Architecture
-
-`AI Recommendation → Governance Validation → Approval → Controlled Action → Verification → Audit`
-
-The project explores how AI systems can become increasingly autonomous
-while still operating inside explicit governance boundaries.
-
-### Long-Term Direction
-
-- RAG-backed business knowledge
-- Dynamic agent planning
-- Tool-oriented workflows
-- Evidence-backed reasoning
-- Policy-aware reasoning
-- Configurable governance policies
-- Risk classification
-- Role-based authorization
-- Dynamic opportunity ranking
-- Customer-segment-aware recommendations
-- Product relationship graphs
-- Stronger verification
-- Governance analytics
+</details>
 
 ---
 
-# 🔍 02. TrustLens AI
+### 🔍 02. TrustLens AI
 
-### Multimodal Identity Verification System
+**Multimodal Identity Verification System**
 
-**Qwen2-VL • LoRA • PEFT • EasyOCR • YOLO • Computer Vision • Document AI**
+`Qwen2-VL` `LoRA` `PEFT` `EasyOCR` `YOLO` `Computer Vision` `Document AI`
 
-An end-to-end AI-powered identity verification system designed to
-analyze **Aadhaar, PAN and Passport documents** using OCR,
-Computer Vision and Vision-Language Models.
+An end-to-end AI-powered identity verification system that analyzes Aadhaar, PAN, and Passport documents using OCR, computer vision, and vision-language models.
 
-### Key Features
+```
+Document → Preprocessing → Document Detection → OCR → Field Extraction
+→ Qwen2-VL → Validation → Risk Analysis → Explainable Result
+```
+
+<details>
+<summary><strong>Key features</strong></summary>
+<br/>
 
 - 📄 Document type detection
 - 🔤 OCR-based information extraction
-- 👁️ Vision-Language reasoning using Qwen2-VL
+- 👁️ Vision-language reasoning using Qwen2-VL
 - 🎯 LoRA / PEFT fine-tuning
 - 🔎 Document field extraction
 - ✅ Identity consistency validation
@@ -255,26 +231,28 @@ Computer Vision and Vision-Language Models.
 - 💬 Explainable AI responses
 - 🧠 Multimodal document understanding
 
-### Pipeline
+**Core focus:** Computer Vision + OCR + Vision-Language Models + Fine-Tuning + Document Intelligence
 
-`Document → Preprocessing → Document Detection → OCR → Field Extraction → Qwen2-VL → Validation → Risk Analysis → Explainable Result`
-
-### Core Focus
-
-**Computer Vision + OCR + Vision-Language Models + Fine-Tuning + Document Intelligence**
+</details>
 
 ---
 
-# 😊 03. Facial Emotion & Distress Recognition
+### 😊 03. Facial Emotion & Distress Recognition
 
-### Real-Time Facial Emotion Recognition
+**Real-Time Facial Emotion Recognition**
 
-**PyTorch • ResNet18 • MediaPipe • OpenCV**
+`PyTorch` `ResNet18` `MediaPipe` `OpenCV`
 
-A Computer Vision system capable of detecting **seven facial emotions**
-from webcam input.
+A computer vision system that detects seven facial emotions from webcam input in real time — **Angry · Disgust · Fear · Happy · Sad · Surprise · Neutral**.
 
-### Key Features
+```
+Webcam → Face Detection → Face Crop → Preprocessing → ResNet18
+→ Emotion Classification → Confidence → Result
+```
+
+<details>
+<summary><strong>Key features</strong></summary>
+<br/>
 
 - 🎥 Real-time webcam inference
 - 👤 Face detection using MediaPipe
@@ -283,28 +261,27 @@ from webcam input.
 - ⚖️ Class imbalance handling
 - 📈 Minority-class recognition
 - 🎯 65–68% accuracy on FER2013
-- 🔬 Deep learning-based image classification
 
-### Supported Emotions
-
-**Angry • Disgust • Fear • Happy • Sad • Surprise • Neutral**
-
-### Pipeline
-
-`Webcam → Face Detection → Face Crop → Preprocessing → ResNet18 → Emotion Classification → Confidence → Result`
+</details>
 
 ---
 
-# 🫁 04. Clinical Chest X-Ray Classification
+### 🫁 04. Clinical Chest X-Ray Classification
 
-### Automated Pneumonia Detection
+**Automated Pneumonia Detection**
 
-**PyTorch • ResNet18 • EfficientNet • Computer Vision**
+`PyTorch` `ResNet18` `EfficientNet` `Computer Vision`
 
-A deep learning system for automated pneumonia detection from
-clinical chest X-ray images.
+A deep learning system for automated pneumonia detection from clinical chest X-ray images, reaching a **91% F1-score**.
 
-### Key Features
+```
+Chest X-Ray → Preprocessing → Transfer Learning → Feature Extraction
+→ Classification → Pneumonia Prediction
+```
+
+<details>
+<summary><strong>Key features</strong></summary>
+<br/>
 
 - 🩻 Medical image classification
 - 🧠 CNN-based deep learning
@@ -312,86 +289,95 @@ clinical chest X-ray images.
 - 📊 91% F1-score
 - 🖼️ Image preprocessing
 - 📈 Model evaluation
-- 🔬 Medical image analysis
 
-### Pipeline
-
-`Chest X-Ray → Preprocessing → Transfer Learning → Feature Extraction → Classification → Pneumonia Prediction`
-
-
-
-# 🎓 Education
-
-## REVA University — Bengaluru
-
-**B.Tech in Robotics & Automation Engineering**
-
-**2023 – 2027**
-
-**CGPA: 9.28 / 10.0**
+</details>
 
 ---
 
-# 📜 Certifications
+## 🎓 Education
 
-- 🐍 Python Programming
-- 🤖 Machine Learning
-- 🧠 Deep Learning
-- 👁️ Computer Vision
-- 📷 OpenCV
-- 🔌 Postman API Fundamentals
-- 📚 GeeksforGeeks
-- 🎓 Great Learning
-- 🏆 Kaggle
+| Institution | Program | Duration | CGPA |
+|---|---|---|---|
+| REVA University, Bengaluru | B.Tech — Robotics & Automation Engineering | 2023 – 2027 | **9.28 / 10.0** |
 
 ---
 
-# 🎯 Areas of Interest
+## 📜 Certifications
 
-**AI/ML Engineering • Generative AI • LLM Applications • RAG • AI Agents • Computer Vision • Vision-Language Models • Document AI • AI Decision Intelligence • Responsible AI • AI Governance**
-
----
-
-# 🌱 What I'm Working Toward
-
-I am working toward becoming an AI engineer capable of taking a problem
-from an initial idea to a reliable and intelligent system.
-
-My focus is on understanding not only **how to build AI models**, but
-also how to design AI systems that can:
-
-**Understand → Reason → Recommend → Govern → Act → Verify → Learn**
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="mailto:ravakuttammounika1227@gmail.com">
-  <img src="https://img.shields.io/badge/Email-ravakuttammounika1227%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/mounika-ravakutam-8a56a7298">
-  <img src="https://img.shields.io/badge/LinkedIn-Ravakutam%20Mounika-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Mounika0021">
-  <img src="https://img.shields.io/badge/GitHub-Mounika0021-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+<p>
+<img src="https://img.shields.io/badge/Python%20Programming-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-2196F3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman%20API%20Fundamentals-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Great%20Learning-00A3E0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </p>
 
 ---
 
+## 🎯 Areas of Interest
+
+<p>
+<img src="https://img.shields.io/badge/AI%2FML%20Engineering-00C2FF?style=flat-square&labelColor=1F2937"/>
+<img src="https://img.shields.io/badge/Generative%20AI-6C63FF?style=flat-square&labelColor=1F2937"/>
+<img src="https://img.shields.io/badge/LLM%20Applications-412991?style=flat-square&labelColor=1F2937"/>
+<img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square&labelColor=1F2937"/>
+<img src="https://img.shields.io/badge/AI%20Agents-0F766E?style=flat-square&labelColor=1F2937"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-2196F3?style=flat-square&labelColor=1F2937"/>
+<img src="https://img.shields.io/badge/Vision--Language%20Models-8B5CF6?style=flat-square&labelColor=1F2937"/>
+<img src="https://img.shields.io/badge/Document%20AI-4F46E5?style=flat-square&labelColor=1F2937"/>
+<img src="https://img.shields.io/badge/Decision%20Intelligence-0EA5E9?style=flat-square&labelColor=1F2937"/>
+<img src="https://img.shields.io/badge/Responsible%20AI-14B8A6?style=flat-square&labelColor=1F2937"/>
+<img src="https://img.shields.io/badge/AI%20Governance-EA580C?style=flat-square&labelColor=1F2937"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-
-### 🚀 Build • Reason • Govern • Improve
-
-<strong>Turning AI ideas into practical and responsible systems.</strong>
-
+<img src="https://github-readme-stats.vercel.app/api?username=Mounika0021&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mounika0021&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  ⭐ Thanks for visiting my profile!
+<img src="https://streak-stats.demolab.com?user=Mounika0021&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## 🌱 What I'm Working Toward
+
+I'm working toward becoming an AI engineer capable of taking a problem from an initial idea to a reliable, intelligent system — focused not just on **how to build AI models**, but how to design AI systems that:
+
+<p align="center">
+<code>Understand → Reason → Recommend → Govern → Act → Verify → Learn</code>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+<a href="mailto:ravakuttammounika1227@gmail.com"><img src="https://img.shields.io/badge/Email-ravakuttammounika1227%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mounika-ravakutam-8a56a7298"><img src="https://img.shields.io/badge/LinkedIn-Ravakutam%20Mounika-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Mounika0021"><img src="https://img.shields.io/badge/GitHub-Mounika0021-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+<p align="center">
+<strong>🚀 Build · Reason · Govern · Improve</strong><br/>
+<em>Turning AI ideas into practical and responsible systems.</em>
+</p>
+
+<p align="center">⭐ Thanks for visiting my profile!</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:2C5364,100:0F2027&height=120&section=footer"/>
 </p>
