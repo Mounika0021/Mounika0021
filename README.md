@@ -334,24 +334,6 @@ Chest X-Ray → Preprocessing → Transfer Learning → Feature Extraction
 <img src="https://img.shields.io/badge/AI%20Governance-EA580C?style=flat-square&labelColor=1F2937"/>
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Mounika0021&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mounika0021&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Mounika0021&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
 
 ## 🌱 What I'm Working Toward
 
