@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ravakutam Mounika</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=AI+%7C+Machine+Learning+Engineer;Computer+Vision+Developer;Vision-Language+Models+%7C+LLMs;Generative+AI+%7C+RAG+%7C+AI+Agents;Building+Production-Ready+AI+Applications;Robotics+and+Automation+Engineer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=AI+%7C+Machine+Learning+Engineer;Computer+Vision+Developer;Generative+AI+%7C+LLMs;Vision-Language+Models;RAG+%7C+AI+Agents;Building+End-to-End+AI+Applications"/>
 </p>
 
 <h3 align="center">
@@ -9,9 +9,8 @@
 </h3>
 
 <p align="center">
-  Passionate about building intelligent AI systems that solve real-world problems
-  using Machine Learning, Deep Learning, Computer Vision, Large Language Models,
-  Vision-Language Models, and intelligent automation.
+  I build practical AI applications across Machine Learning, Deep Learning,
+  Computer Vision, Generative AI, LLMs, Vision-Language Models and intelligent automation.
 </p>
 
 <p align="center">
@@ -36,10 +35,10 @@
 
 📍 Bengaluru, India
 
-I am an **AI/ML-focused Robotics and Automation Engineering student**
-interested in building practical, end-to-end intelligent systems.
+I am an **AI/ML-focused engineering student** interested in building
+end-to-end intelligent applications that solve practical problems.
 
-My interests span:
+My primary interests include:
 
 - Machine Learning
 - Deep Learning
@@ -55,12 +54,12 @@ My interests span:
 - MLOps and Deployment
 
 I enjoy working across the complete AI development lifecycle — from
-data preprocessing and model training to API development, deployment,
-and building usable AI applications.
+data preparation and model development to evaluation, API development
+and deployment.
 
-**AI Development Approach**
+**My approach:**
 
-`Problem → Data → AI/ML Pipeline → Model/LLM/VLM → Evaluation → API → Deployment → Monitoring`
+`Problem → Data → Model → Evaluation → API → Deployment → Improvement`
 
 ---
 
@@ -75,15 +74,15 @@ and building usable AI applications.
 - ⚡ FastAPI & REST APIs
 - 🐳 Docker & MLOps
 - 🤗 Hugging Face Transformers
-- 🔎 Vector Databases & Semantic Search
-- 🧩 Production-oriented AI Systems
+- 🔎 Vector Databases
+- 🧩 Multimodal AI
 - 🔄 Intelligent Automation
 
 ---
 
 # 🛠️ Tech Stack
 
-## 💻 Languages
+## 💻 Programming
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -109,14 +108,13 @@ and building usable AI applications.
 
 ---
 
-## 🧠 Generative AI & LLMs
+## 🧠 Generative AI
 
 <p>
   <img src="https://img.shields.io/badge/Generative%20AI-6C63FF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/AI%20Agents-0F766E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Qwen-7C3AED?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Qwen2--VL-8B5CF6?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/LangGraph-1F2937?style=for-the-badge"/>
@@ -130,23 +128,20 @@ and building usable AI applications.
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/EasyOCR-2E7D32?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Image%20Processing-2563EB?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Document%20AI-4F46E5?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Multimodal%20AI-7C3AED?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🔎 Retrieval & Data
+## 🔎 Data & Retrieval
 
 <p>
-  <img src="https://img.shields.io/badge/Qdrant-D32F2F?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Embeddings-4F46E5?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Sentence%20Transformers-111827?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Qdrant-D32F2F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Embeddings-4F46E5?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge"/>
 </p>
 
 ---
@@ -156,35 +151,10 @@ and building usable AI applications.
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST%20API-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gradio-FF9800?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
-
----
-
-## 📊 Data Science & Analytics
-
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-</p>
-
----
-
-## 🤖 Robotics & Automation
-
-<p>
-  <img src="https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Fusion%20360-0696D7?style=for-the-badge&logo=autodesk&logoColor=white"/>
 </p>
 
 ---
@@ -195,13 +165,13 @@ and building usable AI applications.
 
 ### Multimodal Identity Verification System
 
-**Qwen2-VL • LoRA • PEFT • EasyOCR • YOLO • FastAPI • PostgreSQL • Docker • Qdrant**
+**Qwen2-VL • LoRA • PEFT • EasyOCR • YOLO • FastAPI • PostgreSQL • Qdrant • Docker**
 
 An end-to-end AI-powered identity verification system designed to
-analyze **Aadhaar, PAN, and Passport documents** using OCR,
-Computer Vision, and Vision-Language Models.
+analyze **Aadhaar, PAN and Passport documents** using OCR,
+Computer Vision and Vision-Language Models.
 
-### 🔑 Key Features
+### Key Features
 
 - 📄 Document type detection
 - 🔤 OCR-based information extraction using EasyOCR
@@ -210,25 +180,76 @@ Computer Vision, and Vision-Language Models.
 - 🔎 Document field extraction
 - ✅ Identity consistency validation
 - 🚨 Fraud-oriented verification
-- 📊 Trust / risk scoring
+- 📊 Risk / trust scoring
 - 💬 Explainable AI responses
 - ⚡ FastAPI REST APIs
 - 🗄️ PostgreSQL database
-- 🔎 Qdrant retrieval
+- 🔎 Qdrant-based retrieval
 - 🐳 Dockerized deployment
-- 🖥️ Interactive interface
 
-### 🧠 Architecture
+### Pipeline
 
-**Identity Document → Image Processing → Document Detection → OCR → Field Extraction → Qwen2-VL → Validation → Fraud/Risk Analysis → Trust Score → Explainable Result**
-
-### 🧩 Core Technologies
-
-**Computer Vision + OCR + Vision-Language Models + Fine-Tuning + Rule-Based Validation + Risk Analysis + API Deployment**
+**Document → Preprocessing → Document Detection → OCR → Field Extraction → Qwen2-VL → Validation → Risk Analysis → Explainable Result**
 
 ---
 
-# 😊 02. Facial Emotion & Distress Recognition
+# 🤖 02. AI Interview Agent
+
+### AI-Powered Interview Backend
+
+**FastAPI • PostgreSQL • SQLAlchemy • Python • REST APIs**
+
+An AI interview application designed with a backend architecture for
+managing interview workflows, users, questions and responses.
+
+### Key Features
+
+- ⚡ FastAPI backend
+- 🗄️ PostgreSQL database
+- 🔗 SQLAlchemy ORM
+- 🔐 Environment-based configuration
+- 📡 REST API architecture
+- 🧩 Modular backend structure
+- 📋 Interview workflow management
+- 🤖 Foundation for AI-powered interview interactions
+
+### Architecture
+
+**Client → FastAPI → API Routes → Business Logic → SQLAlchemy → PostgreSQL**
+
+The project focuses on understanding how AI applications can be
+structured as reliable backend systems rather than treating the model
+as an isolated component.
+
+---
+
+# 🛡️ 03. Governed
+
+### AI Governance & Responsible AI Project
+
+**AI • Governance • Evaluation • Responsible AI • Automation**
+
+A project focused on exploring how AI systems can be developed with
+greater emphasis on **governance, reliability, transparency and
+responsible deployment**.
+
+### Focus Areas
+
+- 🧠 AI system evaluation
+- 🔍 Model behavior analysis
+- 📊 AI reliability
+- 🛡️ Responsible AI
+- 📋 Governance-oriented workflows
+- ⚙️ AI automation
+- 🔎 Monitoring and evaluation
+
+The project reflects my interest in not only building AI systems,
+but also understanding how they can be evaluated and operated
+responsibly.
+
+---
+
+# 😊 04. Facial Emotion & Distress Recognition
 
 ### Real-Time Facial Emotion Recognition
 
@@ -237,7 +258,7 @@ Computer Vision, and Vision-Language Models.
 A real-time Computer Vision system capable of detecting
 **seven facial emotions** from webcam input.
 
-### 🔑 Key Features
+### Key Features
 
 - 🎥 Real-time webcam inference
 - 👤 Face detection using MediaPipe
@@ -245,63 +266,48 @@ A real-time Computer Vision system capable of detecting
 - 🖼️ Image preprocessing
 - ⚖️ Class imbalance handling
 - 📈 Improved minority-class recognition
-- 🎯 **65–68% accuracy on FER2013**
+- 🎯 65–68% accuracy on FER2013
 - ⚡ FastAPI inference API
 - 🐳 Docker deployment
 
-### 🧠 Architecture
-
-**Webcam Input → Face Detection → Face Crop → Preprocessing → ResNet18 → Emotion Classification → Confidence → Real-Time Result**
-
-### 🎯 Supported Emotions
+### Supported Emotions
 
 **Angry • Disgust • Fear • Happy • Sad • Surprise • Neutral**
 
 ---
 
-# 🫁 03. Clinical Chest X-Ray Classification
+# 🫁 05. Clinical Chest X-Ray Classification
 
 ### Automated Pneumonia Detection
 
-**PyTorch • ResNet18 • EfficientNet • FastAPI • Computer Vision**
+**PyTorch • ResNet18 • EfficientNet • FastAPI**
 
-A deep learning system designed for automated pneumonia detection
+A deep learning system for automated pneumonia detection
 from clinical chest X-ray images.
 
-### 🔑 Key Features
+### Key Features
 
 - 🩻 Medical image classification
 - 🧠 CNN-based deep learning
 - 🔄 Transfer learning
-- 📊 **91% F1-score**
+- 📊 91% F1-score
 - 🖼️ Image preprocessing
 - 📈 Model evaluation
 - ⚡ FastAPI inference API
 - 🐳 Docker support
 
-### 🧠 Architecture
+### Pipeline
 
-**Chest X-Ray → Image Preprocessing → Data Normalization → CNN / Transfer Learning → Feature Extraction → Classification → Pneumonia Prediction → FastAPI**
-
-### 📊 Model Focus
-
-- Image classification
-- Transfer learning
-- Feature extraction
-- Model evaluation
-- Medical image analysis
-- API-based inference
+**Chest X-Ray → Preprocessing → Transfer Learning → Feature Extraction → Classification → Prediction → FastAPI**
 
 ---
 
 # 🏗️ End-to-End AI Engineering
 
-I focus on more than simply training a model.
+I focus on building complete AI applications rather than only
+training isolated machine learning models.
 
-My goal is to understand how individual AI components work together
-to form a complete application.
-
-**Problem → Data → Data Processing → Model/LLM/VLM → Evaluation → API/Backend → Deployment → Monitoring & Improvement**
+**Problem → Data → Processing → Model → Evaluation → Backend → Deployment → Monitoring**
 
 ### Engineering Approach
 
@@ -311,7 +317,47 @@ to form a complete application.
 
 # 📚 Learning Path
 
-**Python → Data Structures & Data Analysis → Machine Learning → Deep Learning → Computer Vision → Generative AI → LLMs → RAG → AI Agents → Vision-Language Models → Fine-Tuning → MLOps & Deployment**
+**Python**
+
+↓  
+
+**Data Analysis & Machine Learning**
+
+↓  
+
+**Deep Learning**
+
+↓  
+
+**Computer Vision**
+
+↓  
+
+**Generative AI**
+
+↓  
+
+**LLMs**
+
+↓  
+
+**RAG**
+
+↓  
+
+**AI Agents**
+
+↓  
+
+**Vision-Language Models**
+
+↓  
+
+**Fine-Tuning**
+
+↓  
+
+**MLOps & Deployment**
 
 ---
 
@@ -376,18 +422,9 @@ to form a complete application.
 
 ---
 
-# 🌐 Languages
-
-- English
-- Hindi
-- Telugu
-- Marathi
-
----
-
 # 🎯 Areas of Interest
 
-**AI/ML Engineering • Generative AI • LLM Applications • RAG • AI Agents • Computer Vision • Vision-Language Models • Document AI • MLOps • AI Automation**
+**AI/ML Engineering • Generative AI • LLM Applications • RAG • AI Agents • Computer Vision • Vision-Language Models • Document AI • MLOps • AI Automation • Responsible AI**
 
 ---
 
@@ -396,6 +433,10 @@ to form a complete application.
 I am working toward becoming an engineer who can take an AI problem
 from an initial idea to a reliable, deployed application.
 
+I am particularly interested in building systems that combine:
+
+**Machine Learning + Generative AI + Computer Vision + LLMs + Automation + Reliable Backend Systems**
+
 My goal is to continuously improve across:
 
 - AI Engineering
@@ -403,64 +444,12 @@ My goal is to continuously improve across:
 - Deep Learning
 - Generative AI
 - LLM Applications
-- Computer Vision
 - Multimodal AI
+- Computer Vision
 - System Design
 - Deployment
 - MLOps
 - Problem Solving
-
-**Learn → Build → Experiment → Deploy → Measure → Improve → Build Better Systems**
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Mounika0021&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    alt="Mounika's GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Mounika0021&theme=tokyonight&hide_border=true"
-    alt="Mounika's GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mounika0021&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
-
----
-
-# 📌 Featured Work
-
-| Project | Focus | Technologies |
-|---|---|---|
-| 🔍 **TrustLens AI** | Multimodal Document Verification | Qwen2-VL, LoRA, PEFT, EasyOCR, YOLO, FastAPI, Qdrant |
-| 😊 **Facial Emotion & Distress Recognition** | Real-Time Computer Vision | PyTorch, ResNet18, MediaPipe, OpenCV, FastAPI |
-| 🫁 **Clinical Chest X-Ray Classification** | Medical Image Classification | PyTorch, ResNet18, EfficientNet, FastAPI |
-
----
-
-# 🧰 Tools & Platforms
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
-</p>
 
 ---
 
