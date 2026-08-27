@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ravakutam Mounika</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=AI+%7C+Machine+Learning+Engineer;Computer+Vision+Developer;Generative+AI+%7C+LLMs;Vision-Language+Models;RAG+%7C+AI+Agents;Building+End-to-End+AI+Applications"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=AI+%7C+Machine+Learning+Engineer;Computer+Vision+Developer;Generative+AI+%7C+LLMs;Vision-Language+Models;RAG+%7C+AI+Agents;Building+Intelligent+AI+Systems"/>
 </p>
 
 <h3 align="center">
@@ -9,8 +9,9 @@
 </h3>
 
 <p align="center">
-  I build practical AI applications across Machine Learning, Deep Learning,
-  Computer Vision, Generative AI, LLMs, Vision-Language Models and intelligent automation.
+  I build practical AI systems that combine Machine Learning, Deep Learning,
+  Computer Vision, Generative AI, Large Language Models and intelligent
+  decision-making workflows.
 </p>
 
 <p align="center">
@@ -36,7 +37,7 @@
 📍 Bengaluru, India
 
 I am an **AI/ML-focused engineering student** interested in building
-end-to-end intelligent applications that solve practical problems.
+intelligent systems that solve practical problems.
 
 My primary interests include:
 
@@ -49,34 +50,34 @@ My primary interests include:
 - AI Agents
 - Vision-Language Models
 - Document AI
-- Model Fine-Tuning
-- AI Automation
-- MLOps and Deployment
+- Fine-Tuning
+- AI Decision Systems
+- Responsible & Governed AI
 
-I enjoy working across the complete AI development lifecycle — from
-data preparation and model development to evaluation, API development
-and deployment.
+I enjoy moving beyond individual models and exploring how AI systems
+can be designed to **reason, recommend, evaluate, verify and operate
+within defined boundaries**.
 
 **My approach:**
 
-`Problem → Data → Model → Evaluation → API → Deployment → Improvement`
+`Problem → Data → Intelligence → Evaluation → Decision → Verification → Improvement`
 
 ---
 
 # 🔎 Currently Exploring
 
-- 🤖 Vision-Language Models — Qwen2-VL
+- 🤖 Vision-Language Models
 - 🧠 Large Language Models
 - 🔗 Retrieval-Augmented Generation (RAG)
 - 🤖 AI Agents
 - 🎯 LoRA & PEFT Fine-Tuning
 - 📄 OCR & Document AI
-- ⚡ FastAPI & REST APIs
-- 🐳 Docker & MLOps
-- 🤗 Hugging Face Transformers
-- 🔎 Vector Databases
-- 🧩 Multimodal AI
-- 🔄 Intelligent Automation
+- 🛡️ AI Governance
+- 🧠 AI Decision Intelligence
+- 🔍 Explainable AI
+- 📊 Recommendation Systems
+- 🔐 Controlled AI Actions
+- ✅ Verification & Auditability
 
 ---
 
@@ -108,7 +109,7 @@ and deployment.
 
 ---
 
-## 🧠 Generative AI
+## 🧠 Generative AI & LLMs
 
 <p>
   <img src="https://img.shields.io/badge/Generative%20AI-6C63FF?style=for-the-badge"/>
@@ -122,7 +123,7 @@ and deployment.
 
 ---
 
-## 👁️ Computer Vision
+## 👁️ Computer Vision & Multimodal AI
 
 <p>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
@@ -134,38 +135,108 @@ and deployment.
 
 ---
 
-## 🔎 Data & Retrieval
+## 📊 Data & Analytics
 
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Qdrant-D32F2F?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Embeddings-4F46E5?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-</p>
-
----
-
-## ⚡ Backend & Deployment
-
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20API-4CAF50?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge"/>
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🔍 01. TrustLens AI
+## 🛡️ 01. Governed AI Work Agent
+
+### AI Decision Intelligence & Governed Action Platform
+
+**AI Agents • Decision Intelligence • Recommendation Systems • Governance • RAG • Verification • Auditability • Streamlit**
+
+An evolving **governed AI decision-intelligence platform** designed to
+turn business signals into controlled, explainable and auditable actions.
+
+Instead of treating an AI recommendation as an immediately executable
+instruction, the system separates **intelligence from authorization
+and execution**.
+
+### Core Principle
+
+**Recommendation ≠ Authorization ≠ Execution**
+
+### Decision Lifecycle
+
+`Context → Analysis → Opportunity Discovery → Recommendation → Governance → Approval → Controlled Action → Verification → Outcome → Audit`
+
+### Key Features
+
+- 🧠 AI-driven business analysis
+- 💡 Opportunity discovery
+- 📊 Multiple recommendation generation
+- 🎯 Recommendation scoring
+- 🔍 Customer-fit and category-fit evaluation
+- 📋 Recommendation review
+- 🛡️ Governance validation
+- ✅ Approval checkpoints
+- ⚙️ Controlled action execution
+- 🧪 Simulation-based execution boundary
+- 🔎 Post-action verification
+- 🧾 Traceable audit trail
+- 📑 Executive summary
+- 🔗 Foundation for RAG-backed business knowledge
+- 🤖 Roadmap toward broader agent workflows
+
+### Current Demonstration
+
+The current implementation uses a **FitFuel Store** scenario focused on
+fitness and nutrition.
+
+The system analyzes business signals and identifies related-product
+opportunities such as:
+
+- Shaker Bottle
+- Protein Cookies
+- Gym Towel
+
+Recommendations are evaluated using factors such as:
+
+- Customer Fit
+- Category Fit
+- Purchase Relevance
+- Expected Impact
+- Confidence
+
+### Governance Architecture
+
+`AI Recommendation → Governance Validation → Approval → Controlled Action → Verification → Audit`
+
+The project explores how AI systems can become increasingly autonomous
+while still operating inside explicit governance boundaries.
+
+### Long-Term Direction
+
+- RAG-backed business knowledge
+- Dynamic agent planning
+- Tool-oriented workflows
+- Evidence-backed reasoning
+- Policy-aware reasoning
+- Configurable governance policies
+- Risk classification
+- Role-based authorization
+- Dynamic opportunity ranking
+- Customer-segment-aware recommendations
+- Product relationship graphs
+- Stronger verification
+- Governance analytics
+
+---
+
+# 🔍 02. TrustLens AI
 
 ### Multimodal Identity Verification System
 
-**Qwen2-VL • LoRA • PEFT • EasyOCR • YOLO • FastAPI • PostgreSQL • Qdrant • Docker**
+**Qwen2-VL • LoRA • PEFT • EasyOCR • YOLO • Computer Vision • Document AI**
 
 An end-to-end AI-powered identity verification system designed to
 analyze **Aadhaar, PAN and Passport documents** using OCR,
@@ -174,7 +245,7 @@ Computer Vision and Vision-Language Models.
 ### Key Features
 
 - 📄 Document type detection
-- 🔤 OCR-based information extraction using EasyOCR
+- 🔤 OCR-based information extraction
 - 👁️ Vision-Language reasoning using Qwen2-VL
 - 🎯 LoRA / PEFT fine-tuning
 - 🔎 Document field extraction
@@ -182,81 +253,26 @@ Computer Vision and Vision-Language Models.
 - 🚨 Fraud-oriented verification
 - 📊 Risk / trust scoring
 - 💬 Explainable AI responses
-- ⚡ FastAPI REST APIs
-- 🗄️ PostgreSQL database
-- 🔎 Qdrant-based retrieval
-- 🐳 Dockerized deployment
+- 🧠 Multimodal document understanding
 
 ### Pipeline
 
-**Document → Preprocessing → Document Detection → OCR → Field Extraction → Qwen2-VL → Validation → Risk Analysis → Explainable Result**
+`Document → Preprocessing → Document Detection → OCR → Field Extraction → Qwen2-VL → Validation → Risk Analysis → Explainable Result`
+
+### Core Focus
+
+**Computer Vision + OCR + Vision-Language Models + Fine-Tuning + Document Intelligence**
 
 ---
 
-# 🤖 02. AI Interview Agent
-
-### AI-Powered Interview Backend
-
-**FastAPI • PostgreSQL • SQLAlchemy • Python • REST APIs**
-
-An AI interview application designed with a backend architecture for
-managing interview workflows, users, questions and responses.
-
-### Key Features
-
-- ⚡ FastAPI backend
-- 🗄️ PostgreSQL database
-- 🔗 SQLAlchemy ORM
-- 🔐 Environment-based configuration
-- 📡 REST API architecture
-- 🧩 Modular backend structure
-- 📋 Interview workflow management
-- 🤖 Foundation for AI-powered interview interactions
-
-### Architecture
-
-**Client → FastAPI → API Routes → Business Logic → SQLAlchemy → PostgreSQL**
-
-The project focuses on understanding how AI applications can be
-structured as reliable backend systems rather than treating the model
-as an isolated component.
-
----
-
-# 🛡️ 03. Governed
-
-### AI Governance & Responsible AI Project
-
-**AI • Governance • Evaluation • Responsible AI • Automation**
-
-A project focused on exploring how AI systems can be developed with
-greater emphasis on **governance, reliability, transparency and
-responsible deployment**.
-
-### Focus Areas
-
-- 🧠 AI system evaluation
-- 🔍 Model behavior analysis
-- 📊 AI reliability
-- 🛡️ Responsible AI
-- 📋 Governance-oriented workflows
-- ⚙️ AI automation
-- 🔎 Monitoring and evaluation
-
-The project reflects my interest in not only building AI systems,
-but also understanding how they can be evaluated and operated
-responsibly.
-
----
-
-# 😊 04. Facial Emotion & Distress Recognition
+# 😊 03. Facial Emotion & Distress Recognition
 
 ### Real-Time Facial Emotion Recognition
 
-**PyTorch • ResNet18 • MediaPipe • OpenCV • FastAPI • Docker**
+**PyTorch • ResNet18 • MediaPipe • OpenCV**
 
-A real-time Computer Vision system capable of detecting
-**seven facial emotions** from webcam input.
+A Computer Vision system capable of detecting **seven facial emotions**
+from webcam input.
 
 ### Key Features
 
@@ -265,25 +281,28 @@ A real-time Computer Vision system capable of detecting
 - 🧠 ResNet18-based emotion classification
 - 🖼️ Image preprocessing
 - ⚖️ Class imbalance handling
-- 📈 Improved minority-class recognition
+- 📈 Minority-class recognition
 - 🎯 65–68% accuracy on FER2013
-- ⚡ FastAPI inference API
-- 🐳 Docker deployment
+- 🔬 Deep learning-based image classification
 
 ### Supported Emotions
 
 **Angry • Disgust • Fear • Happy • Sad • Surprise • Neutral**
 
+### Pipeline
+
+`Webcam → Face Detection → Face Crop → Preprocessing → ResNet18 → Emotion Classification → Confidence → Result`
+
 ---
 
-# 🫁 05. Clinical Chest X-Ray Classification
+# 🫁 04. Clinical Chest X-Ray Classification
 
 ### Automated Pneumonia Detection
 
-**PyTorch • ResNet18 • EfficientNet • FastAPI**
+**PyTorch • ResNet18 • EfficientNet • Computer Vision**
 
-A deep learning system for automated pneumonia detection
-from clinical chest X-ray images.
+A deep learning system for automated pneumonia detection from
+clinical chest X-ray images.
 
 ### Key Features
 
@@ -293,75 +312,49 @@ from clinical chest X-ray images.
 - 📊 91% F1-score
 - 🖼️ Image preprocessing
 - 📈 Model evaluation
-- ⚡ FastAPI inference API
-- 🐳 Docker support
+- 🔬 Medical image analysis
 
 ### Pipeline
 
-**Chest X-Ray → Preprocessing → Transfer Learning → Feature Extraction → Classification → Prediction → FastAPI**
+`Chest X-Ray → Preprocessing → Transfer Learning → Feature Extraction → Classification → Pneumonia Prediction`
 
 ---
 
-# 🏗️ End-to-End AI Engineering
+# 🧠 AI Engineering Philosophy
 
-I focus on building complete AI applications rather than only
-training isolated machine learning models.
+I am particularly interested in the transition from:
 
-**Problem → Data → Processing → Model → Evaluation → Backend → Deployment → Monitoring**
+**AI that predicts**
 
-### Engineering Approach
+to
 
-**Build → Validate → Deploy → Monitor → Improve**
+**AI that reasons**
 
----
+to
 
-# 📚 Learning Path
+**AI that recommends**
 
-**Python**
+to
 
-↓  
+**AI that acts responsibly**
 
-**Data Analysis & Machine Learning**
+This is why my recent work explores both **Generative AI and governed
+AI decision systems**.
 
-↓  
+I am interested in building systems where AI outputs can be:
 
-**Deep Learning**
-
-↓  
-
-**Computer Vision**
-
-↓  
-
-**Generative AI**
-
-↓  
-
-**LLMs**
-
-↓  
-
-**RAG**
-
-↓  
-
-**AI Agents**
-
-↓  
-
-**Vision-Language Models**
-
-↓  
-
-**Fine-Tuning**
-
-↓  
-
-**MLOps & Deployment**
+- Understandable
+- Reviewable
+- Explainable
+- Governed
+- Controlled
+- Verifiable
+- Auditable
+- Extensible
 
 ---
 
-# 🔬 Currently Learning
+# 🔬 Current Learning
 
 - Advanced AI Agent architectures
 - RAG optimization
@@ -371,13 +364,12 @@ training isolated machine learning models.
 - LoRA / PEFT
 - Document AI
 - OCR pipelines
-- Vector databases
-- AI inference APIs
-- FastAPI
-- Docker
-- CI/CD
-- MLOps
-- Production AI systems
+- AI decision intelligence
+- Recommendation systems
+- AI governance
+- Responsible AI
+- Verification and evaluation
+- Agentic workflows
 
 ---
 
@@ -407,49 +399,21 @@ training isolated machine learning models.
 
 ---
 
-# 💡 Soft Skills
-
-- Problem Solving
-- Analytical Thinking
-- Strategic Thinking
-- Team Collaboration
-- Cross-Functional Collaboration
-- Communication
-- Leadership
-- Project Management
-- Adaptability
-- Continuous Learning
-
----
-
 # 🎯 Areas of Interest
 
-**AI/ML Engineering • Generative AI • LLM Applications • RAG • AI Agents • Computer Vision • Vision-Language Models • Document AI • MLOps • AI Automation • Responsible AI**
+**AI/ML Engineering • Generative AI • LLM Applications • RAG • AI Agents • Computer Vision • Vision-Language Models • Document AI • AI Decision Intelligence • Responsible AI • AI Governance**
 
 ---
 
 # 🌱 What I'm Working Toward
 
-I am working toward becoming an engineer who can take an AI problem
-from an initial idea to a reliable, deployed application.
+I am working toward becoming an AI engineer capable of taking a problem
+from an initial idea to a reliable and intelligent system.
 
-I am particularly interested in building systems that combine:
+My focus is on understanding not only **how to build AI models**, but
+also how to design AI systems that can:
 
-**Machine Learning + Generative AI + Computer Vision + LLMs + Automation + Reliable Backend Systems**
-
-My goal is to continuously improve across:
-
-- AI Engineering
-- Machine Learning
-- Deep Learning
-- Generative AI
-- LLM Applications
-- Multimodal AI
-- Computer Vision
-- System Design
-- Deployment
-- MLOps
-- Problem Solving
+**Understand → Reason → Recommend → Govern → Act → Verify → Learn**
 
 ---
 
@@ -475,9 +439,9 @@ My goal is to continuously improve across:
 
 <p align="center">
 
-### 🚀 Build • Learn • Deploy • Improve
+### 🚀 Build • Reason • Govern • Improve
 
-<strong>Turning AI ideas into practical systems.</strong>
+<strong>Turning AI ideas into practical and responsible systems.</strong>
 
 </p>
 
