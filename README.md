@@ -318,60 +318,7 @@ clinical chest X-ray images.
 
 `Chest X-Ray → Preprocessing → Transfer Learning → Feature Extraction → Classification → Pneumonia Prediction`
 
----
 
-# 🧠 AI Engineering Philosophy
-
-I am particularly interested in the transition from:
-
-**AI that predicts**
-
-to
-
-**AI that reasons**
-
-to
-
-**AI that recommends**
-
-to
-
-**AI that acts responsibly**
-
-This is why my recent work explores both **Generative AI and governed
-AI decision systems**.
-
-I am interested in building systems where AI outputs can be:
-
-- Understandable
-- Reviewable
-- Explainable
-- Governed
-- Controlled
-- Verifiable
-- Auditable
-- Extensible
-
----
-
-# 🔬 Current Learning
-
-- Advanced AI Agent architectures
-- RAG optimization
-- Retrieval strategies
-- LLM application development
-- Vision-Language Models
-- LoRA / PEFT
-- Document AI
-- OCR pipelines
-- AI decision intelligence
-- Recommendation systems
-- AI governance
-- Responsible AI
-- Verification and evaluation
-- Agentic workflows
-
----
 
 # 🎓 Education
 
