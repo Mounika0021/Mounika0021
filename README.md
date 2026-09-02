@@ -12,10 +12,6 @@
 <a href="https://github.com/Mounika0021"><img src="https://img.shields.io/badge/GitHub-Mounika0021-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/AI-00C2FF?style=flat-square" height="4"/> <img src="https://img.shields.io/badge/-7C3AED?style=flat-square" height="4"/> <img src="https://img.shields.io/badge/-2C5364?style=flat-square" height="4"/>
-</p>
-
 ---
 
 ## 👩‍💻 About Me
