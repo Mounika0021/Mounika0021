@@ -10,7 +10,6 @@
 <a href="https://www.linkedin.com/in/mounika-ravakutam-8a56a7298"><img src="https://img.shields.io/badge/LinkedIn-Ravakutam%20Mounika-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:ravakuttammounika1227@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/Mounika0021"><img src="https://img.shields.io/badge/GitHub-Mounika0021-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=Mounika0021&label=Profile%20Views&color=00C2FF&style=for-the-badge"/>
 </p>
 
 <p align="center">
